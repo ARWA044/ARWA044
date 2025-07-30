@@ -35,7 +35,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARWA044&show_icons=true&theme=radical" alt="ARWA044's GitHub stats" width="400"/>
-  <img src="https://streak-stats.demolab.com?user=ARWA044&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
 
 ---
