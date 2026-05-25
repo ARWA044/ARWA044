@@ -75,9 +75,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARWA044&show_icons=true&theme=radical&hide_border=true" alt="ARWA044 GitHub stats" />
-</div>
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ARWA044&show_icons=true&theme=radical)
 
 ---
 
