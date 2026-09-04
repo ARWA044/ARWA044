@@ -7,12 +7,12 @@
 
 ---
 
-- 🎓 **1st-year engineering cycle** — Cybersecurity & Cloud Computing, ENSAM Casablanca
+- 🎓 **2nd-year engineering cycle** — Cybersecurity & Cloud Computing, ENSAM Casablanca
 - 🐛 **Bug Bounty @ HackerOne** — critical source code leak (CVSS 9.1 on OPPO), Blind SSRF on Notion reaching AWS Metadata, Supabase BOLA/IDOR
 - 🏆 **CTF** — MACC 2026 (national, AI/LLM prompt injection track) · CITEFLAG Digital Forensics **15/15**
 - 🔬 Currently building: **Offense/Defense Lab** *(classified 🔒)*
 - 🌱 Exploring: **Cloud Security · LLM Security · Malware Analysis · OT/ICS**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arwa-boudarfa-889539291/) · arwaboudarfa91@gmail.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arwa-boudarfa/) · arwaboudarfa91@gmail.com
 - 🏅 **NSE4 FortiOS Administrator** certified
 
 ---
