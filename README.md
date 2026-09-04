@@ -2,18 +2,19 @@
 <h3 align="center">Engineering Student · Cybersecurity & Cloud Computing · ENSAM Casablanca</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1A9FFF&center=true&vCenter=true&width=560&lines=Bug+Bounty+Researcher+%7C+HackerOne;CTF+Player+%7C+Digital+Forensics+%26+AI%2FLLM;ML+Security+%7C+Intrusion+Detection;SIEM+%7C+Threat+Intelligence+%7C+Pentest" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1A9FFF&center=true&vCenter=true&width=560&lines=Bug+Bounty+Researcher+%7C+HackerOne;GRC+%26+Compliance+%7C+ISO+27001%2C+DORA;CTF+Player+%7C+Digital+Forensics+%26+AI%2FLLM;ML+Security+%7C+SIEM+%7C+Threat+Intelligence" alt="Typing SVG" />
 </p>
 
 ---
 
 - 🎓 **2nd-year engineering cycle** — Cybersecurity & Cloud Computing, ENSAM Casablanca
 - 🐛 **Bug Bounty @ HackerOne** — critical source code leak (CVSS 9.1 on OPPO), Blind SSRF on Notion reaching AWS Metadata, Supabase BOLA/IDOR
+- 🛡️ **GRC Trainee @ CybrForge** — client work across ISO 27001/27005, NIST RMF, DORA, and Moroccan Loi 05-20; built a full M365 security posture assessment and risk register
 - 🏆 **CTF** — MACC 2026 (national, AI/LLM prompt injection track) · CITEFLAG Digital Forensics **15/15**
-- 🔬 Currently building: **Offense/Defense Lab** *(classified 🔒)*
+- 🔬 Currently building: **Offense/Defense Lab** (Proxmox + OPNsense, red/blue team practice)
 - 🌱 Exploring: **Cloud Security · LLM Security · Malware Analysis · OT/ICS**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arwa-boudarfa/) · [HackerOne](https://hackerone.com/zerodayhunter_exe?type=user) · arwaboudarfa91@gmail.com
-- 🏅 **NSE4 FortiOS Administrator** certified
+- 🏅 **NSE4 FortiOS Administrator** certified · FortiAnalyzer 7.6 Analyst (FTAO) — in progress
 
 ---
 
@@ -26,6 +27,11 @@
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility_3-555555?style=flat&logoColor=white)
 ![The Sleuth Kit](https://img.shields.io/badge/The_Sleuth_Kit-333333?style=flat&logoColor=white)
+
+**GRC & Standards**
+![ISO 27001](https://img.shields.io/badge/ISO_27001%2F27005-2E7D32?style=flat&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST_RMF-003087?style=flat&logoColor=white)
+![DORA](https://img.shields.io/badge/DORA-6A1B9A?style=flat&logoColor=white)
 
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -53,6 +59,7 @@
 
 ### 🔴 Offensive Security & Bug Bounty
 - **[ethical-hacking-demo](https://github.com/ARWA044/ethical-hacking-demo)** — Documented offensive security techniques for learning purposes (Python).
+- **OWASP Juice Shop** *(in progress)* — Working through Juice Shop's vulnerability challenges, including LLM prompt-injection scenarios, via Burp Suite on Kali Linux.
 
 ### 🔵 Detection & Threat Intelligence
 - **[cybersecurity-intrusion-detection](https://github.com/ARWA044/cybersecurity-intrusion-detection)** — Full IDS with Streamlit dashboard; Random Forest / SVM / KNN classifiers on network traffic.
@@ -60,8 +67,11 @@
 - **[mini-siem-cy01](https://github.com/ARWA044/mini-siem-cy01)** — DFA engine in JavaScript detecting multi-step attack sequences (auth_fail → port_scan → privilege_escalation); pipeline: webhook → Google Sheets → Slack & WhatsApp alerts via Twilio.
 - **SSH Honeypot – Threat Intelligence Pipeline** *(in progress)* — Hardened Cowrie in Docker (cap-drop ALL); JSON logs ingested into Splunk with SPL correlation queries.
 
+### 🛡️ GRC & Compliance
+- **M365 Security Posture Assessment** *(client work CybrForge)* — 28-page assessment aligned to ISO 27001:2022: licensing analysis, risk register, and remediation roadmap (Conditional Access, phishing-resistant MFA, SPF/DKIM/DMARC sequencing).
+
 ### 🏗️ Infrastructure & Labs
-- **Offense/Defense Lab** *(in progress)* — A self-hosted security research environment.
+- **Offense/Defense Lab** *(in progress)* — Self-hosted Proxmox + OPNsense environment for red/blue team practice; writeup coming as it matures.
 
 ### 🏆 CTF & Competitions
 - **MACC 2026** (Morocco Academia Cyber Competition — DGSSI & SecDojo) — AI/LLM track: prompt injection on LLM → extracted MCP Bearer token → read privileged system file.
@@ -84,6 +94,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/arwa-boudarfa-889539291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" /></a>
   <a href="https://github.com/ARWA044"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" /></a>
+  <a href="https://hackerone.com/zerodayhunter_exe?type=user"><img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white&style=flat" /></a>
   <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white&style=flat" /></a>
-  <a href="https://hackerone.com"><img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white&style=flat" /></a>
 </p>
