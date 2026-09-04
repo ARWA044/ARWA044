@@ -12,7 +12,7 @@
 - 🏆 **CTF** — MACC 2026 (national, AI/LLM prompt injection track) · CITEFLAG Digital Forensics **15/15**
 - 🔬 Currently building: **Offense/Defense Lab** *(classified 🔒)*
 - 🌱 Exploring: **Cloud Security · LLM Security · Malware Analysis · OT/ICS**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arwa-boudarfa/) · arwaboudarfa91@gmail.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arwa-boudarfa/) · [HackerOne](https://hackerone.com/zerodayhunter_exe?type=user) · arwaboudarfa91@gmail.com
 - 🏅 **NSE4 FortiOS Administrator** certified
 
 ---
