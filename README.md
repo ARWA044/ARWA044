@@ -68,7 +68,7 @@
 - **SSH Honeypot – Threat Intelligence Pipeline** *(in progress)* — Hardened Cowrie in Docker (cap-drop ALL); JSON logs ingested into Splunk with SPL correlation queries.
 
 ### 🛡️ GRC & Compliance
-- **M365 Security Posture Assessment** *(client work CybrForge)* — 28-page assessment aligned to ISO 27001:2022: licensing analysis, risk register, and remediation roadmap (Conditional Access, phishing-resistant MFA, SPF/DKIM/DMARC sequencing).
+- **M365 Security Posture Assessment** *(client work CybrForge)* — 50-page assessment aligned to ISO 27001:2022: licensing analysis, risk register, and remediation roadmap (Conditional Access, phishing-resistant MFA, SPF/DKIM/DMARC sequencing).
 
 ### 🏗️ Infrastructure & Labs
 - **Offense/Defense Lab** *(in progress)* — Self-hosted Proxmox + OPNsense environment for red/blue team practice; writeup coming as it matures.
