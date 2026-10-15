@@ -19,7 +19,7 @@
 ## 🏅 Certifications
 
 - ✅ **Fortinet NSE 4** — FortiOS 7.6 Administrator
-- ✅ **Fortinet NSE 5** — Security Operations
+- ✅ **Fortinet NSE 5** — FortiAnalyzer 7.6 Analyst
 - 📚 **In preparation:** Fortinet **SD-WAN 7.6 Core Administrator**
 - 📚 **In preparation:** AWS **Cloud Practitioner**
 
