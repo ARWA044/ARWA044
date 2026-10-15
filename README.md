@@ -14,7 +14,14 @@
 - 🔬 Currently building: **Offense/Defense Lab** (Proxmox + OPNsense, red/blue team practice)
 - 🌱 Exploring: **Cloud Security · LLM Security · Malware Analysis · OT/ICS**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arwa-boudarfa/) · [HackerOne](https://hackerone.com/zerodayhunter_exe?type=user) · arwaboudarfa91@gmail.com
-- 🏅 **NSE4 FortiOS Administrator** certified · FortiAnalyzer 7.6 Analyst (FTAO) — in progress
+
+---
+## 🏅 Certifications
+
+- ✅ **Fortinet NSE 4** — FortiOS 7.6 Administrator
+- ✅ **Fortinet NSE 5** — Security Operations
+- 📚 **In preparation:** Fortinet **SD-WAN 7.6 Core Administrator**
+- 📚 **In preparation:** AWS **Cloud Practitioner**
 
 ---
 
