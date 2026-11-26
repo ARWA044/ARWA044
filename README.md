@@ -97,7 +97,11 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ARWA044&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/ARWA044?tab=repositories"><img src="assets/github-stats.svg" alt="Public GitHub repository statistics" /></a>
+</p>
+
+[View contribution activity](https://github.com/ARWA044#contribution-activity)
 
 ---
 
