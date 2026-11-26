@@ -1,106 +1,46 @@
-<h1 align="center">Hi, I'm Arwa Boudarfa</h1>
-<h3 align="center">Engineering Student · Cybersecurity & Cloud Computing · ENSAM Casablanca</h3>
+# Arwa Boudarfa
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1A9FFF&center=true&vCenter=true&width=560&lines=Bug+Bounty+Researcher+%7C+HackerOne;GRC+%26+Compliance+%7C+ISO+27001%2C+DORA;CTF+Player+%7C+Digital+Forensics+%26+AI%2FLLM;ML+Security+%7C+SIEM+%7C+Threat+Intelligence" alt="Typing SVG" />
-</p>
+**Cybersecurity & Cloud Computing Engineering Student | Security Engineering · DevSecOps · Threat Detection**
 
----
+ENSAM Casablanca · Morocco
 
-- 🎓 **2nd-year engineering cycle** — Cybersecurity & Cloud Computing, ENSAM Casablanca
-- 🐛 **Bug Bounty @ HackerOne** — critical source code leak (CVSS 9.1 on OPPO), Blind SSRF on Notion reaching AWS Metadata, Supabase BOLA/IDOR
-- 🛡️ **GRC Trainee @ CybrForge** — client work across ISO 27001/27005, NIST RMF, DORA, and Moroccan Loi 05-20; built a full M365 security posture assessment and risk register
-- 🏆 **CTF** — MACC 2026 (national, AI/LLM prompt injection track) · CITEFLAG Digital Forensics **15/15**
-- 🔬 Currently building: **Offense/Defense Lab** (Proxmox + OPNsense, red/blue team practice)
-- 🌱 Exploring: **Cloud Security · LLM Security · Malware Analysis · OT/ICS**
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/arwa-boudarfa/) · [HackerOne](https://hackerone.com/zerodayhunter_exe?type=user) · arwaboudarfa91@gmail.com
+I build security-focused software, detection workflows and reproducible cloud infrastructure. My interests include cloud security, SOC automation, vulnerability research and applied machine learning.
 
----
-## 🏅 Certifications
+[LinkedIn](https://www.linkedin.com/in/arwa-boudarfa/) · [HackerOne](https://hackerone.com/zerodayhunter_exe?type=user)
 
-- ✅ **Fortinet NSE 4** — FortiOS 7.6 Administrator
-- ✅ **Fortinet NSE 5** — FortiAnalyzer 7.6 Analyst
-- 📚 **In preparation:** Fortinet **SD-WAN 7.6 Core Administrator**
-- 📚 **In preparation:** AWS **Cloud Practitioner**
+## Selected engineering projects
 
----
+| Project | What it demonstrates |
+| --- | --- |
+| [LunarOps](https://github.com/ARWA044/LunarOps) | NASA Space Apps team prototype; my contribution focuses on Docker, Terraform and DevSecOps. [CI run](https://github.com/ARWA044/LunarOps/actions/runs/43748465914) · [AWS workflow run](https://github.com/ARWA044/LunarOps/actions/runs/43748465902) |
+| [Mini-SIEM CY-01](https://github.com/ARWA044/mini-siem-cy01) | Stateful security-event correlation with n8n, a JavaScript finite-state machine and alert automation |
+| [AI Security Guard](https://github.com/ARWA044/AI-security-guard) | Isolation Forest behavioral anomaly detection on simulated access logs |
+| [ARP Spoofing Detection](https://github.com/ARWA044/arp-spoofing-detection) | Network-traffic analysis, machine-learning experiments and Streamlit visualizations |
+| [ECU-BMS](https://github.com/ARWA044/ECU-BMS-Project) | Team prototype for simulated battery diagnostics; my contribution is ML, measurement-limit rules and diagnostic JSON |
+| [Finance Tracker](https://github.com/ARWA044/finance-tracker) | Django application with authentication, transaction management and financial visualizations |
 
-## 🛠️ Tech Stack
+## Experience and security research
 
-**Security & SOC**
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility_3-555555?style=flat&logoColor=white)
-![The Sleuth Kit](https://img.shields.io/badge/The_Sleuth_Kit-333333?style=flat&logoColor=white)
+- **GRC trainee — CybrForge:** M365 security posture assessment, risk register and remediation planning; exposure to ISO 27001/27005, NIST RMF, DORA and Moroccan Law 05-20.
+- **Vulnerability research:** responsible disclosure through HackerOne; details shared only when disclosure is authorized.
+- **CTFs:** MACC 2026 AI/LLM security track; CITEFLAG digital forensics (reported score: 15/15).
+- **Current lab work:** Proxmox/OPNsense offense-defense environment and containerized SSH honeypot with Splunk log analysis.
 
-**GRC & Standards**
-![ISO 27001](https://img.shields.io/badge/ISO_27001%2F27005-2E7D32?style=flat&logoColor=white)
-![NIST](https://img.shields.io/badge/NIST_RMF-003087?style=flat&logoColor=white)
-![DORA](https://img.shields.io/badge/DORA-6A1B9A?style=flat&logoColor=white)
+## Skills
 
-**Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+| Area | Tools and topics |
+| --- | --- |
+| Security | Splunk, Wireshark, Burp Suite, Nmap, Volatility, Fortinet |
+| Infrastructure | Linux, Docker, GitHub Actions, Terraform, AWS, Proxmox |
+| Development | Python, Bash, C, Django, Flask, Streamlit, Git |
+| Data & ML | pandas, NumPy, scikit-learn, Plotly |
+| Governance | ISO 27001/27005, NIST RMF, DORA |
 
-**ML & Data**
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+## Certifications and professional development
 
-**Infrastructure & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+- Fortinet FortiOS 7.6 Administrator and FortiAnalyzer 7.6 Analyst — listed in my previous profile; see [LinkedIn](https://www.linkedin.com/in/arwa-boudarfa/) for credential details.
+- In preparation: Fortinet SD-WAN 7.6 Core Administrator and AWS Certified Cloud Practitioner.
 
----
+## Contact
 
-## 📂 Projects
-
-### 🔴 Offensive Security & Bug Bounty
-- **[ethical-hacking-demo](https://github.com/ARWA044/ethical-hacking-demo)** — Documented offensive security techniques for learning purposes (Python).
-- **OWASP Juice Shop** *(in progress)* — Working through Juice Shop's vulnerability challenges, including LLM prompt-injection scenarios, via Burp Suite on Kali Linux.
-
-### 🔵 Detection & Threat Intelligence
-- **[cybersecurity-intrusion-detection](https://github.com/ARWA044/cybersecurity-intrusion-detection)** — Full IDS with Streamlit dashboard; Random Forest / SVM / KNN classifiers on network traffic.
-- **[arp-spoofing-detection](https://github.com/ARWA044/arp-spoofing-detection)** — ML-based ARP spoofing detection in real network traffic.
-- **[mini-siem-cy01](https://github.com/ARWA044/mini-siem-cy01)** — DFA engine in JavaScript detecting multi-step attack sequences (auth_fail → port_scan → privilege_escalation); pipeline: webhook → Google Sheets → Slack & WhatsApp alerts via Twilio.
-- **SSH Honeypot – Threat Intelligence Pipeline** *(in progress)* — Hardened Cowrie in Docker (cap-drop ALL); JSON logs ingested into Splunk with SPL correlation queries.
-
-### 🛡️ GRC & Compliance
-- **M365 Security Posture Assessment** *(client work CybrForge)* — 50-page assessment aligned to ISO 27001:2022: licensing analysis, risk register, and remediation roadmap (Conditional Access, phishing-resistant MFA, SPF/DKIM/DMARC sequencing).
-
-### 🏗️ Infrastructure & Labs
-- **Offense/Defense Lab** *(in progress)* — Self-hosted Proxmox + OPNsense environment for red/blue team practice; writeup coming as it matures.
-
-### 🏆 CTF & Competitions
-- **MACC 2026** (Morocco Academia Cyber Competition — DGSSI & SecDojo) — AI/LLM track: prompt injection on LLM → extracted MCP Bearer token → read privileged system file.
-- **CTF CITEFLAG — Operation GLASSWORM** — Score **15/15**. Disk image forensics, malicious npm extraction, Splunk log correlation: timestomping (T1070.006), C2 exfiltration via Solana Devnet.
-
-### 💻 Web Applications
-- **[finance-tracker](https://github.com/ARWA044/finance-tracker)** — Django personal finance tracker with Plotly expense visualizations.
-- **[weather-app](https://github.com/ARWA044/weather-app)** — Flask + HTML/CSS weather application.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ARWA044&show_icons=true&theme=radical)
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arwa-boudarfa-889539291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" /></a>
-  <a href="https://github.com/ARWA044"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" /></a>
-  <a href="https://hackerone.com/zerodayhunter_exe?type=user"><img src="https://img.shields.io/badge/HackerOne-494649?logo=hackerone&logoColor=white&style=flat" /></a>
-  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white&style=flat" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/arwa-boudarfa/) · [HackerOne](https://hackerone.com/zerodayhunter_exe?type=user)
